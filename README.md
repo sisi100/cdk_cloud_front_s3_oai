@@ -1,4 +1,4 @@
-テンプレート
+CloudFrontのOAIにS3を使用するCDKのサンプル
 
 # 構成
 
